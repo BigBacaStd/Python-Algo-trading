@@ -56,9 +56,8 @@ media_mov_21 = Media_Movil_Simple(df, longitud=21, columna="Close")
 
 media_mov_plots = [
     mpf.make_addplot(media_mov_9, label="Media Movil 9 dias", color= "green", type="line"),
-    mpf.make_addplot(media_mov_21, label="Media Movil 21 dias", color= "blue", type="line"),
+    mpf.make_addplot(media_mov_21, label="Media Movil 21 dias", color= "blue", type="line")
 ]
 
-mpf.plot(df, type="candle", style="yahoo", volume=True, figsize=(22,10), addplot=media_mov_plots, figscale=3.0,
-         title=dict(title="Promedios Moviles", size=20))
+mpf.plot(df, type="candle", style="yahoo", volume=True, figsize=(22, 10), addplot=media_mov_plots, figscale=3.0, title="Promedios Moviles")
 plt.show()

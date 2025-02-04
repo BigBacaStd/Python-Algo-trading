@@ -37,28 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01 - Datos Historicos.executor": "Run",
-    "Python.01 - Media Movil Simple (SMA).executor": "Run",
-    "Python.01- DescargarDatosHistoricos.executor": "Run",
-    "Python.02 - Rendimiento simple vs rendimiento logaritmico.executor": "Run",
-    "Python.03 - Rendimiento acumulado.executor": "Run",
-    "Python.04 - Visualizacion de datos.executor": "Run",
-    "Python.05 - Metricas de rendimiento.executor": "Run",
-    "Python.main.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01 - Datos Historicos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01 - Media Movil Simple (SMA).executor&quot;: &quot;Run&quot;,
+    &quot;Python.01- DescargarDatosHistoricos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 - Rendimiento simple vs rendimiento logaritmico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03 - Rendimiento acumulado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04 - Visualizacion de datos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05 - Metricas de rendimiento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.01 - Media Movil Simple (SMA)">
     <configuration name="01 - Media Movil Simple (SMA)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo Trading Py" />
@@ -251,7 +251,8 @@
       <workItem from="1738211629823" duration="1357000" />
       <workItem from="1738293142572" duration="89000" />
       <workItem from="1738293236360" duration="18108000" />
-      <workItem from="1738610100777" duration="15244000" />
+      <workItem from="1738610100777" duration="15262000" />
+      <workItem from="1738643129431" duration="579000" />
     </task>
     <servers />
   </component>
@@ -282,6 +283,6 @@
     <SUITE FILE_PATH="coverage/Algo_Trading_Py$04___Visualizacion_de_datos.coverage" NAME="04 - Visualizacion de datos Coverage Results" MODIFIED="1738621912784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 -ABC del Trading" />
     <SUITE FILE_PATH="coverage/Algo_Trading_Py$01___Datos_Historicos.coverage" NAME="01 - Datos Historicos Coverage Results" MODIFIED="1738519283677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 -ABC del Trading" />
     <SUITE FILE_PATH="coverage/Algo_Trading_Py$01__DescargarDatosHistoricos.coverage" NAME="01- DescargarDatosHistoricos Coverage Results" MODIFIED="1738293144882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Algo_Trading_Py$01___Media_Movil_Simple__SMA_.coverage" NAME="01 - Media Movil Simple (SMA) Coverage Results" MODIFIED="1738642997472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 - Indicadores de Tendencia" />
+    <SUITE FILE_PATH="coverage/Algo_Trading_Py$01___Media_Movil_Simple__SMA_.coverage" NAME="01 - Media Movil Simple (SMA) Coverage Results" MODIFIED="1738643687211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 - Indicadores de Tendencia" />
   </component>
 </project>
