@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6173f33f-b00b-48bd-94fb-84d0f32c9e83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/01 -ABC del Trading/05 - Metricas de rendimiento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02 - Indicadores de Tendencia/01 - Media Movil Simple (SMA).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 -ABC del Trading/grafico_de_velas.html" beforeDir="false" afterPath="$PROJECT_DIR$/01 -ABC del Trading/grafico_de_velas.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01 - Datos Historicos.executor": "Run",
+    "Python.01 - Media Movil Simple (SMA).executor": "Run",
     "Python.01- DescargarDatosHistoricos.executor": "Run",
     "Python.02 - Rendimiento simple vs rendimiento logaritmico.executor": "Run",
     "Python.03 - Rendimiento acumulado.executor": "Run",
@@ -59,8 +59,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.05 - Metricas de rendimiento">
-    <configuration name="01 - Datos Historicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01 - Media Movil Simple (SMA)">
+    <configuration name="01 - Media Movil Simple (SMA)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algo Trading Py" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,12 +69,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01 -ABC del Trading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 - Indicadores de Tendencia" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 -ABC del Trading/01 - Datos Historicos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 - Indicadores de Tendencia/01 - Media Movil Simple (SMA).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01 - Media Movil Simple (SMA)" />
         <item itemvalue="Python.05 - Metricas de rendimiento" />
         <item itemvalue="Python.04 - Visualizacion de datos" />
         <item itemvalue="Python.03 - Rendimiento acumulado" />
         <item itemvalue="Python.02 - Rendimiento simple vs rendimiento logaritmico" />
-        <item itemvalue="Python.01 - Datos Historicos" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +251,7 @@
       <workItem from="1738211629823" duration="1357000" />
       <workItem from="1738293142572" duration="89000" />
       <workItem from="1738293236360" duration="18108000" />
-      <workItem from="1738610100777" duration="11947000" />
+      <workItem from="1738610100777" duration="15244000" />
     </task>
     <servers />
   </component>
@@ -282,5 +282,6 @@
     <SUITE FILE_PATH="coverage/Algo_Trading_Py$04___Visualizacion_de_datos.coverage" NAME="04 - Visualizacion de datos Coverage Results" MODIFIED="1738621912784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 -ABC del Trading" />
     <SUITE FILE_PATH="coverage/Algo_Trading_Py$01___Datos_Historicos.coverage" NAME="01 - Datos Historicos Coverage Results" MODIFIED="1738519283677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01 -ABC del Trading" />
     <SUITE FILE_PATH="coverage/Algo_Trading_Py$01__DescargarDatosHistoricos.coverage" NAME="01- DescargarDatosHistoricos Coverage Results" MODIFIED="1738293144882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algo_Trading_Py$01___Media_Movil_Simple__SMA_.coverage" NAME="01 - Media Movil Simple (SMA) Coverage Results" MODIFIED="1738642997472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02 - Indicadores de Tendencia" />
   </component>
 </project>
